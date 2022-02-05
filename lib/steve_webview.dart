@@ -20,9 +20,9 @@ class _SteveWebviewState extends State<SteveWebview> {
   int _selectedIndex = 0; // Tutorial page is displayed by default
   static List<Widget> tabs = <Widget> [
     const Tab1(), // display tutorial page
-    const Tab2(), // display vegetation page
-    const Tab3(), // display Slivertest code
-    const Tab4(), // display Slivertest code
+    const Tab2(), // display EO Browser vegetation page
+    const Tab3(), // display GEE NDVI anomaly
+    const Tab4(), // display Machu Picchu explanation
   ];
 
   void _onItemTapped(int index) {

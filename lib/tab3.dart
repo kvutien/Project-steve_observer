@@ -170,7 +170,7 @@ class _Tab3State extends State<Tab3> {
                       print(consoleMessage);
                     },
                   ),
-                  // if the web page is still loading, show progress bar
+                  // if the web page is still loading, show progress wheel
                   //  on top of the webview display
                   progress < 1.0
                       ? LinearProgressIndicator(value: progress)
