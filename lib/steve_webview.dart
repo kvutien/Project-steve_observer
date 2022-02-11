@@ -59,11 +59,11 @@ class _SteveWebviewState extends State<SteveWebview> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.mode),
-            label: 'Test Sliver',
+            label: 'Earth Engine',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.mode),
-            label: 'Test SingleChildScroll',
+            label: 'Machu Picchu',
           ),
           /* BottomNavigationBarItem(
             icon: Icon(Icons.radar),
