@@ -51,11 +51,11 @@ class _SteveWebviewState extends State<SteveWebview> {
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(
             icon: Icon(Icons.help_outline),
-            label: 'Help',
+            label: 'About',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.agriculture_outlined),
-            label: 'Vegetation',
+            label: 'EO Browser',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.mode),
