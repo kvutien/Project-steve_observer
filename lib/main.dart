@@ -5,8 +5,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-
-// import 'package:provider/provider.dart';
+// import 'package:provider/provider.dart'; // route the data around the app
 import 'package:steve_observer/steve_webview.dart';
 
 Future main() async {
@@ -15,7 +14,7 @@ Future main() async {
   if (Platform.isAndroid) {
     await AndroidInAppWebViewController.setWebContentsDebuggingEnabled(true);
   }
-  // the usual runApp starts here
+  // the usual Flutter runApp starts here
   runApp(const SteveApp());
 }
 

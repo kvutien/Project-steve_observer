@@ -178,7 +178,7 @@ class _Tab3State extends State<Tab3> {
                 ],
               ),
             ),
-            ButtonBar(
+            /*ButtonBar(
               alignment: MainAxisAlignment.center,
               children: <Widget>[
                 ElevatedButton(
@@ -200,7 +200,7 @@ class _Tab3State extends State<Tab3> {
                   },
                 ),
               ],
-            ),
+            ),*/
           ]))/*)*/,
     );
   }

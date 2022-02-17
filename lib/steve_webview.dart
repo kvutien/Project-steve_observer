@@ -39,7 +39,7 @@ class _SteveWebviewState extends State<SteveWebview> {
         centerTitle: true,
         backgroundColor: Colors.lightGreen,
         foregroundColor: Colors.brown,
-        toolbarHeight: 18.0,
+        toolbarHeight: 23.0,
       ),
       body: tabs[_selectedIndex],
       bottomNavigationBar: BottomNavigationBar(
