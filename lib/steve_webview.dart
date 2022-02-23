@@ -35,7 +35,7 @@ class _SteveWebviewState extends State<SteveWebview> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Steve_B Earth Observer"),
+        title: const Text("Steve_B Earth Observer PoC"),
         centerTitle: true,
         backgroundColor: Colors.lightGreen,
         foregroundColor: Colors.brown,

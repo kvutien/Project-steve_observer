@@ -31,4 +31,10 @@
             android:name="flutterEmbedding"
             android:value="2" />
     </application>
+    <!-- add permissions here -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Include at least this permission for any kind of location -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- Include only if your app benefits from precise location access (10-160 ft) -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 </manifest>

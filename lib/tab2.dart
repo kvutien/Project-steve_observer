@@ -35,7 +35,7 @@ class _Tab2State extends State<Tab2> {
   late PullToRefreshController pullToRefreshController; // refresh display
   String url = "";
   final String urlSteveObs =
-      'https://apps.sentinel-hub.com/eo-browser/?zoom=14&lat=41.57799&lng=-85.82953&themeId=AGRICULTURE&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2Fc6c712d5-e6a0-49a8-8aa3-85346b3df8a4&datasetId=S2L2A&fromTime=2021-12-13T00%3A00%3A00.000Z&toTime=2021-12-13T23%3A59%3A59.999Z&layerId=FALSE-COLOR-11-8-2';
+      'https://apps.sentinel-hub.com/eo-browser/?zoom=12&lat=48.85661&lng=2.35222&themeId=AGRICULTURE&visualizationUrl=https%3A%2F%2Fservices.sentinel-hub.com%2Fogc%2Fwms%2Fc6c712d5-e6a0-49a8-8aa3-85346b3df8a4&datasetId=S2L2A&fromTime=2021-07-19T23%3A00%3A00.000Z&toTime=2021-12-13T23%3A59%3A59.999Z&layerId=FALSE-COLOR-11-8-2';
   double progress = 0;
   final urlController = TextEditingController();
 

@@ -33,7 +33,7 @@ Important points such quality of the data, reputation of the sponsor persons and
 ## What is the business model of Machu Picchu?
 Machu Picchu has a B2B2C business model. It offers services to all organisations that are in direct contact with the persons-in-need world-wide. By adhering to the Machu Picchu community, these organisations have access to quality data to accomplish their missions.
 
-We can compare Machu Picchu with the USA highway Route 66. It is a public service. It has given birth around it to a successful economy composed of hotels, restaurants, garages, industries, doctors, etc. in many cities. Nobody owns Route 66; nobody owns Machu Picchu either. With Machu Picchu, “ data is a public service”.
+We can compare Machu Picchu with the USA highway Route 66. It is a public service. It has given birth around it to a successful economy composed of hotels, restaurants, garages, industries, doctors, in all cities along Route 66. Nobody owns Route 66; nobody owns Machu Picchu either. With Machu Picchu, “_data is a public service_”.
 
 Machu Picchu’s business model is composed of:
 1. a community of operations composed of all organisations providing services to the persons-in-need,
@@ -53,9 +53,9 @@ In February 2022, only the community of software developers exists. These develo
 * the PoC to combine the use of SMS and desktop app to do multi-signature writing on the blockchain.
 
 ## What is Machu Picchu roadmap and team?
-Because Machu Picchu integrates many existing and proven technologies, but remotely linked, it is necessary to make distinct PoCs, keeping in mind their use in the final Machu Picchu system.
+Because Machu Picchu integrates many existing and proven technologies, but loosely linked, it is necessary to make distinct PoCs while keeping in mind their use in the final Machu Picchu system.
 
-Because Machu Picchu has no funding at this moment, each PoC is done in a hackathon, where it is possible to find contributors who are interesting in competing to win a prize. The others are done on a volunteering basis, when possible. Machu Picchu has won several prizes in the 2 hackathons it participated until now.
+Because Machu Picchu has no funding at this moment, each PoC is done in a hackathon, where it is possible to find contributors who are interesting in competing to win a prize. The others are done on a volunteering basis, when possible. Machu Picchu has won several prizes in the 2 hackathons it participated until now in 2020 and 2021.
 
 The plan is to make a field prototype when Machu Picchu interests one helper organisation with a significant number of persons-in-need to assist and with funding to develop, deploy and operate. Then we can build a project team from the developers of past hackathons. They know Machu Picchu. We’ll keep metrics of the development, of the deployment and of the lessons learned in field operations.
 

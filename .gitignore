@@ -29,7 +29,6 @@
 .pub-cache/
 .pub/
 /build/
-machupicchu.jks
 
 # Web related
 lib/generated_plugin_registrant.dart
@@ -49,6 +48,7 @@ app.*.map.json
 **/android/local.properties
 **/android/key.properties
 **/android/**/GeneratedPluginRegistrant.java
+machupicchu.jks
 
 # iOS/XCode related
 **/ios/**/*.mode1v3
