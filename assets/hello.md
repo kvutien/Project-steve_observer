@@ -9,8 +9,8 @@ This example convinced me deeply that if farmers were given simple tools to obse
 * **Flutter** and **React Native** support making mobile apps for Android and iOS.
 * **Blockchain** tools can be used to share in a decentralised and trusted manner everyone's analysis, and build up individual reputation, as in the Amish community I knew.
 
-### Introducing the free Steve_B mobile app
-With this **free** mobile app _Steve_B_, anyone can observe by satellite the health of vegetation everywhere in the world. No registration required, no advertisement, nothing to pay: a tribute to _EO-Browser_ and _Earth Engine_ of which this app is a mere wrapper. 
+### Introducing the free _Steve Observer_ mobile app
+With this **free** mobile app _Steve Observer_, anyone can observe by satellite the health of vegetation everywhere in the world. No registration required, no advertisement, nothing to pay: a tribute to _EO-Browser_ and _Earth Engine_ of which this app is a mere wrapper. 
 
 This app is named in the honor of *Steve Birky*, my brother-in-law, who spent his life helping the people in need.
 ### How to use this app
