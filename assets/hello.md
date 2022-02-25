@@ -1,4 +1,4 @@
-# How to use Steve_B Earth Observer
+# How to use Steve Observer
 ## Introduction
 ### The power of live experience
 In 1991 I met a group of Amish people. The head of the group was a man who could forecast quite accurately the weather a few days ahead, although he had no meteo academic background, simply a long observation experience as a farmer. His friends even say that he could predict pretty well the yield of the coming season.
